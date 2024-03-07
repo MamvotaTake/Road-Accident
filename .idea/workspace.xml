@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be831963-68ea-40bd-b7a3-98ec656ef41d" name="Changes" comment="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 31681971" />
+    <list default="true" id="be831963-68ea-40bd-b7a3-98ec656ef41d" name="Changes" comment="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 31681971">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoadAccidents.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RoadAccidents.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +59,7 @@
       <workItem from="1708615925121" duration="1795000" />
       <workItem from="1708881069870" duration="239000" />
       <workItem from="1709394919973" duration="2285000" />
+      <workItem from="1709741994884" duration="859000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 31681971">
       <option name="closed" value="true" />
